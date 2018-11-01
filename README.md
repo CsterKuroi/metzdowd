@@ -18,9 +18,6 @@
 * [Bitcoin P2P e-cash paper](Archives-cn/014815.md)   Satoshi Nakamoto
 * [Bitcoin P2P e-cash paper](Archives-cn/014817.md)   John Levine
 * [Bitcoin P2P e-cash paper](Archives-cn/014818.md)   Satoshi Nakamoto
-
-**TODO**
-
 * [Bitcoin P2P e-cash paper](Archives-cn/014819.md)   James A. Donald
 * [Bitcoin P2P e-cash paper](Archives-cn/014822.md)   Ray Dillinger
 * [Bitcoin P2P e-cash paper](Archives-cn/014823.md)   Satoshi Nakamoto
